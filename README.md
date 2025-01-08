@@ -308,6 +308,7 @@ The time analysis (Year, Month, Week) is done through Pyspark SQL. To elaborate 
 To answer the above questions Pyspark SQL is very helpful. These questions sound very important but on the other hand the answer to these questions can easily be achieved by applying simple queries. 
 
 
+
 ![image](Documentation/images/30.png)
 
 The above screenshot shows the months in which the maximum number of crimes have occurred in each year.
